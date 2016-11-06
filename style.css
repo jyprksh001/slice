@@ -1,0 +1,59 @@
+li{
+	list-style-type:none;
+}
+
+.no-display{
+	display: none;
+}
+
+.container{
+	margin-left:25%;
+	margin-top: 0px;
+	margin-right: 25%;
+	
+}
+
+#slider li{
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 8px;
+}
+
+li img{
+	width: 566px;
+	height: 100%;
+	max-height: 700px; 
+}
+
+.button-left{
+	float:left;
+	margin-left: 20px; 
+}
+
+.text{
+	float: left;
+	margin-left: 13px;
+	padding-left: 5px;
+	padding-right: 5px;
+	width:555px;
+	display: inline;
+}
+
+#image-text p{
+	line-height: .1;
+	display: inline-grid;
+	text-align: center;
+	font-size: small;
+}
+
+.button-right{
+	float: right;
+	margin-right: 20px;
+}
+
+
+
+
+
+
+
